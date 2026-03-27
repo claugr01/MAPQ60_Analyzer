@@ -1,10 +1,15 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+# Logs de Nextflow
+.nextflow.log*
+.nextflow/
 
-# Virtual environments
-.venv
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de configuración locales
+.python-version
+uv.lock
+
+# Otros archivos temporales
+*.log
