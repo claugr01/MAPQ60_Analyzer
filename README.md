@@ -15,8 +15,8 @@ Este repositorio contiene una herramienta de procesamiento de archivos SAM (Sequ
 
 Asegúrate de tener instalados los siguientes componentes:
 1. *Python 3.12+*
-2. *uv*: 
-3. *Nextflow*: 
+2. *uv*
+3. *Nextflow* 
 
 ---
 
@@ -24,7 +24,7 @@ Asegúrate de tener instalados los siguientes componentes:
 
 1. *Clonar el repositorio:*
 ```bash
-   git clone [https://github.com/TU_USUARIO/proyecto-sam.git](https://github.com/TU_USUARIO/proyecto-sam.git)
+   git clone https://github.com/claugr01/MAPQ60_Analyzer/blob/main/README.md
    cd proyecto-sam
 ```
 
