@@ -1,6 +1,6 @@
 # SAM MAPQ60 Analyzer
 
-Este repositorio contiene una herramienta de procesamiento de archivos SAM (Sequence Alignment Map) desarrollada en Python. El objetivo principal es filtrar alineamientos de alta calidad basándose en el valor MAPQ = 60 y presentar estadísticas de forma clara.
+Este repositorio contiene una herramienta de procesamiento de archivos SAM (Sequence Alignment Map) desarrollada en Python. El objetivo principal es filtrar alineamientos de alta calidad basándose en el valor MAPQ=60 y presentar estadísticas de forma clara.
 
 
 ## 📂 Estructura del Proyecto
