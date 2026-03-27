@@ -44,12 +44,12 @@ uv run main.py path/archivo.sam
 nextflow run main.nf --sam path/archivo_sam
 ```
 
-## Salida esperada
+## 🟢 Salida esperada
 
 El programa ignorará las cabeceras (@), contará las lecturas totales y nos indicará el número y porcentaje de lecturas con un alineamiento de alta calidad (MAPQ=60)
 
 
-## Ejemplo de ejecución
+## 💡 Ejemplo de ejecución
 
 *Ej: Ejecución directa con uv*
 
